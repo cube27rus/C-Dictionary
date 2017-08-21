@@ -1,0 +1,5 @@
+D:\C#\2Gis\2Gis\bin\Debug\2Gis.pdb
+D:\C#\2Gis\2Gis\obj\Debug\2Gis.csprojResolveAssemblyReference.cache
+D:\C#\2Gis\2Gis\obj\Debug\2Gis.pdb
+D:\C#\2Gis\2Gis\bin\Debug\2Gis.exe
+D:\C#\2Gis\2Gis\obj\Debug\2Gis.exe
